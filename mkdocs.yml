@@ -5,10 +5,38 @@ site_author: Antjrobles
 site_dir: site
 
 #dev_addr: 192.168.0.61:8018
-#repo_url: https://github.com/Antjrobles/My-Second-Brain
+repo_url: https://github.com/Antjrobles/mkdocs-cloudflare.git
 repo_name: My Second Brain
 #edit_uri: '?query=root/path/docs/'
 
+nav:
+  - Home: index.md
+  - DAM:
+      - Programación:
+          - 1. Introducción a la Programación: 'DAM/Programación/Introducción a la Programación.md'
+          - Creación de mi primer programa: 'DAM/Programación/Tema2.md'
+          - Utilización de objetos: 'DAM/Programación/Tema3.md'
+          - Uso de estructuras de control: 'DAM/Programación/Tema4.md'
+          - Desarrollo de Clases: 'DAM/Programación/Tema5.md'
+          - Estructuras de almacenamiento de datos: 'DAM/Programación/Tema6.md'
+          - Utilización avanzada de clases: 'DAM/Programación/Tema7.md'
+          - 8. Colecciones de Clases: 'DAM/Programación/Unidad 08 - Colecciones de Clases.md'
+          - Almacenado Datos: 'DAM/Programación/Tema9.md'
+          - Comunicándonos con el usuario. Interfaces: 'DAM/Programación/Tema10.md'
+          - Acceso a Bases de Datos: 'DAM/Programación/Tema11.md'
+      - Base De Datos:
+          - 1. Almacenamiento de la información: 'DAM/Base de Datos/Tema1.md'
+          - 2. Bases de datos relacionales: 'DAM/Base de Datos/Bases de datos relacionales.md'
+          - 6. Programación de base de datos: 'DAM/Base de Datos/Unidad 06 - Programacion de base de datos.md'
+      - Entornos de Desarrollo:
+          - 4. Optimización y Documentación: 'DAM/Entornos de Desarrollo/Optimización y Documentación.md'
+      - Formación y Orientación Laboral:
+          - 1. Inserción laboral, búsqueda de empleo y emprendimiento: 'DAM/Formación y Orientación Laboral/kkk.md'
+          - 7. Plan de prevención de empresas: 'DAM/FOL/Unidad 07 - Plan de prevencion en la empresa.md'
+      - Sistemas Informáticos:
+          - Administración de un Sistema Linux: 'DAM/Sistemas Informáticos/Administracion de un sistema Linuz.md'
+      - Lenguaje de Marcas y Sistemas de Gestión de la Información:
+          - sdasdasd: 'DAM/LMSGI/sdasd.md'
 
 ## [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 theme:
