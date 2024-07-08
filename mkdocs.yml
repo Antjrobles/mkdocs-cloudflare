@@ -7,7 +7,7 @@ site_dir: site
 #dev_addr: 192.168.0.61:8018
 #repo_url: https://github.com/Antjrobles/My-Second-Brain
 repo_name: My Second Brain
-edit_uri: '?query=root/path/docs/'
+#edit_uri: '?query=root/path/docs/'
 
 
 ## [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
