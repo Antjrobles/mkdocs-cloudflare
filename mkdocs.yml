@@ -11,7 +11,7 @@ repo_name: My Second Brain
 
 nav:
   - Home: index.md
-  - DAM_1º:
+  - DAM 1º:
       - Programación:
           - 1. Introducción a la Programación: 'DAM/Programación/Introducción a la Programación.md'
           - Creación de mi primer programa: 'DAM/Programación/Tema2.md'
