@@ -5,10 +5,11 @@ site_author: Antjrobles
 site_dir: site
 
 #dev_addr: 192.168.0.61:8018
-#repo_url: https://github.com/Antjrobles/My-Second-Brain
+#repo_url: https://gihtub...
 repo_name: My Second Brain
 edit_uri: '?query=root/path/docs/'
 
+nav:
 
 ## [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 theme:
