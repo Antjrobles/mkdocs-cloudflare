@@ -42,8 +42,8 @@ theme:
 plugins:
   #  - offline
   - search:
-#  - tags:
-#      tags_file: tags.md
+  - tags:
+      tags_file: tags.md
 
 markdown_extensions:
   - admonition

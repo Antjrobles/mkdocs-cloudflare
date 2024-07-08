@@ -1,17 +1,14 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## DISEÑO DE APLICACIONES MULTIPLATAFORMA 1º - DAM
 
-## Commands
+Repositorio con todos los temas del Grado superior en Diseño de Aplicaciones Multiplataforma de 1º (DAM)
+<center>
+![Texto alternativo](https://private-user-images.githubusercontent.com/51507400/303252445-a75fb06d-993f-42f9-9d6b-131a22cdf098.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgxOTQ0NTAsIm5iZiI6MTcwODE5NDE1MCwicGF0aCI6Ii81MTUwNzQwMC8zMDMyNTI0NDUtYTc1ZmIwNmQtOTkzZi00MmY5LTlkNmItMTMxYTIyY2RmMDk4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE3VDE4MjIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3OTJhOGMzMGM5YjViOTA3YzQ5N2QxOTIwYmIyZGVhZWFmODUxMzc4YTNhOGVlYTdkYmExNzdhZGZlZWQ1ZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.p2yWujIzYnlqtG9MSXQGYapMYQvDbifcCbcP9arBwO4"Título de la imagen")
+</center>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-* `LALALALAAL`
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## Table of contents
+* [Programación](#general-info)
+* [Base de datos](#technologies)
+* [Setup](#setup)
